@@ -2,7 +2,7 @@ Processamento-de-Dados-com-Power-BI
 
 Desafio de Projeto
 
-Neste repositório, apresento o desafio atendido em um arquivo imagem em JPEG (como dashboard) e outro arquivo no Power BI Desktop, onde estes estão na pasta "AULA 4 - Processamento de Dados com Power BI"
+Neste repositório, apresento o desafio atendido em um arquivo imagem em JPEG (como "Dashboard - Desafio de Projeto.jpg") e outro arquivo no Power BI Desktop (como "company_desafio_mysql.pbix"), onde estes estão na pasta "AULA 4 - Processamento de Dados com Power BI"
 
 Considerando as premissas deste desafio seguem as atividades desenvolvidas, na ordem:
 - coleta de dados
